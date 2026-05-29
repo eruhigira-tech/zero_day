@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1779959689,,"wq"
+|2,0,1780042556,,"wq"
 :q
 |2,0,1779708124,,"q"
 :wq!
@@ -39,230 +39,264 @@
 |3,1,36,0,1,0,1779275280," "
 
 # File marks:
-'0  1  8  ~/alu-zero_day/git/README.md
-|4,48,1,8,1779959689,"~/alu-zero_day/git/README.md"
-'1  1  0  ~/alu-zero_day/README.md
-|4,49,1,0,1779959606,"~/alu-zero_day/README.md"
-'2  1  0  ~/alu-zero_day/git/README.md
-|4,50,1,0,1779959561,"~/alu-zero_day/git/README.md"
-'3  2  30  ~/alu-zero_day/git/README.md
-|4,51,2,30,1779959113,"~/alu-zero_day/git/README.md"
-'4  2  30  ~/alu-zero_day/git/README.md
-|4,52,2,30,1779959113,"~/alu-zero_day/git/README.md"
-'5  2  30  ~/alu-zero_day/git/README.md
-|4,53,2,30,1779959113,"~/alu-zero_day/git/README.md"
-'6  2  30  ~/alu-zero_day/git/README.md
-|4,54,2,30,1779959113,"~/alu-zero_day/git/README.md"
-'7  11  0  /submissionss.sh
-|4,55,11,0,1779709093,"/submissionss.sh"
-'8  11  0  /submissionss.sh
-|4,56,11,0,1779708952,"/submissionss.sh"
-'9  9  29  /submissionss.sh
-|4,57,9,29,1779708421,"/submissionss.sh"
+'0  2  3  ~/alu-shell/basics/2-bring_me_home
+|4,48,2,3,1780042556,"~/alu-shell/basics/2-bring_me_home"
+'1  2  2  ~/alu-shell/basics/README.md
+|4,49,2,2,1780041906,"~/alu-shell/basics/README.md"
+'2  1  0  ~/alu-shell/.git/MERGE_MSG
+|4,50,1,0,1780040425,"~/alu-shell/.git/MERGE_MSG"
+'3  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,51,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+'4  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,52,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+'5  1  8  ~/alu-zero_day/git/README.md
+|4,53,1,8,1779959689,"~/alu-zero_day/git/README.md"
+'6  1  0  ~/alu-zero_day/README.md
+|4,54,1,0,1779959606,"~/alu-zero_day/README.md"
+'7  1  0  ~/alu-zero_day/git/README.md
+|4,55,1,0,1779959561,"~/alu-zero_day/git/README.md"
+'8  2  30  ~/alu-zero_day/git/README.md
+|4,56,2,30,1779959113,"~/alu-zero_day/git/README.md"
+'9  2  30  ~/alu-zero_day/git/README.md
+|4,57,2,30,1779959113,"~/alu-zero_day/git/README.md"
 
 # Jumplist (newest first):
+-'  2  3  ~/alu-shell/basics/2-bring_me_home
+|4,39,2,3,1780042556,"~/alu-shell/basics/2-bring_me_home"
+-'  1  0  ~/alu-shell/basics/2-bring_me_home
+|4,39,1,0,1780042513,"~/alu-shell/basics/2-bring_me_home"
+-'  2  2  ~/alu-shell/basics/README.md
+|4,39,2,2,1780041906,"~/alu-shell/basics/README.md"
+-'  2  2  ~/alu-shell/basics/README.md
+|4,39,2,2,1780041906,"~/alu-shell/basics/README.md"
+-'  1  0  ~/alu-shell/basics/README.md
+|4,39,1,0,1780041852,"~/alu-shell/basics/README.md"
+-'  1  0  ~/alu-shell/basics/README.md
+|4,39,1,0,1780041852,"~/alu-shell/basics/README.md"
+-'  1  0  ~/alu-shell/.git/MERGE_MSG
+|4,39,1,0,1780040425,"~/alu-shell/.git/MERGE_MSG"
+-'  1  0  ~/alu-shell/.git/MERGE_MSG
+|4,39,1,0,1780040425,"~/alu-shell/.git/MERGE_MSG"
+-'  1  0  ~/alu-shell/.git/MERGE_MSG
+|4,39,1,0,1780040425,"~/alu-shell/.git/MERGE_MSG"
+-'  1  0  ~/alu-shell/.git/MERGE_MSG
+|4,39,1,0,1780040425,"~/alu-shell/.git/MERGE_MSG"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  3  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,3,0,1780040097,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  1  0  ~/alu-shell/basics/0-current_working_directory.sh
+|4,39,1,0,1780040015,"~/alu-shell/basics/0-current_working_directory.sh"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  7  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,7,0,1779968127,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alu-zero_day/.git/MERGE_MSG
+|4,39,1,0,1779967874,"~/alu-zero_day/.git/MERGE_MSG"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
+-'  1  8  ~/alu-zero_day/git/README.md
+|4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
 -'  1  8  ~/alu-zero_day/git/README.md
 |4,39,1,8,1779959689,"~/alu-zero_day/git/README.md"
 -'  1  0  ~/alu-zero_day/README.md
 |4,39,1,0,1779959606,"~/alu-zero_day/README.md"
 -'  1  0  ~/alu-zero_day/README.md
 |4,39,1,0,1779959606,"~/alu-zero_day/README.md"
--'  1  0  ~/alu-zero_day/git/README.md
-|4,39,1,0,1779959561,"~/alu-zero_day/git/README.md"
--'  1  0  ~/alu-zero_day/git/README.md
-|4,39,1,0,1779959561,"~/alu-zero_day/git/README.md"
--'  2  30  ~/alu-zero_day/git/README.md
-|4,39,2,30,1779959113,"~/alu-zero_day/git/README.md"
--'  2  30  ~/alu-zero_day/git/README.md
-|4,39,2,30,1779959113,"~/alu-zero_day/git/README.md"
--'  2  30  ~/alu-zero_day/git/README.md
-|4,39,2,30,1779959113,"~/alu-zero_day/git/README.md"
--'  2  30  ~/alu-zero_day/git/README.md
-|4,39,2,30,1779959113,"~/alu-zero_day/git/README.md"
--'  2  30  ~/alu-zero_day/git/README.md
-|4,39,2,30,1779959113,"~/alu-zero_day/git/README.md"
--'  1  0  ~/alu-zero_day/git/README.md
-|4,39,1,0,1779959087,"~/alu-zero_day/git/README.md"
--'  1  0  ~/alu-zero_day/git/README.md
-|4,39,1,0,1779959087,"~/alu-zero_day/git/README.md"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779709093,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  11  0  /submissionss.sh
-|4,39,11,0,1779708952,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708676,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  9  29  /submissionss.sh
-|4,39,9,29,1779708421,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
--'  2  39  /submissionss.sh
-|4,39,2,39,1779708350,"/submissionss.sh"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
+-'  1  0  ~/alu-zero_day/README.md
+|4,39,1,0,1779959606,"~/alu-zero_day/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/alu-shell/basics/2-bring_me_home
+	*	1780042553	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
+
+> ~/alu-shell/basics/README.md
+	*	1780041903	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/alu-shell/.git/MERGE_MSG
+	*	1780040423	0
+	"	1	0
+
+> ~/alu-shell/basics/0-current_working_directory.sh
+	*	1780040094	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	0
+
+> ~/alu-zero_day/.git/MERGE_MSG
+	*	1779968107	0
+	"	7	0
+	^	7	0
+	.	6	20
+	+	6	19
+	+	2	10
+	+	6	20
 
 > ~/alu-zero_day/git/README.md
 	*	1779959686	0
